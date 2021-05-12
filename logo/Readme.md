@@ -7,4 +7,6 @@ The [Union Jack flag](https://en.wikipedia.org/wiki/File:Flag_of_the_United_King
 The Carpentries logo was traced using [affinity designer](https://affinity.serif.com/en-gb/designer/), a png version of the UK flag had its colour
 saturation decreased using the mac preview application and then used as the background for the carpentry logo.
 
+![uk-carpentries logo](UKCarpLogo.png)
+
 The uk-carpentries is released under a CC0 Licence.

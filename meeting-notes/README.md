@@ -15,7 +15,9 @@ During these meetings, we will be conforming to [The Carpentries Code of Conduct
 - **Community's HackMD workspace: https://hackmd.io/@local-uk** 
 - **Community's HackMD workspace's details (needs logging in): https://hackmd.io/team/local-uk?nav=overview**
 - **Previous meetings: https://hackmd.io/V3ReKkEESzqyCNxWJdulOw#Meetings**
-- Meeting template: https://hackmd.io/hgl1tYhOTTqDsIDwjArE5w
+- [**Chairing rota**](https://hackmd.io/@local-uk/rkPK1Si7F)
+- [Minutes backup on GitHub](https://github.com/uk-carpentries/uk-carpentries/tree/main/meeting-notes)
+- **Meeting template:** https://hackmd.io/hgl1tYhOTTqDsIDwjArE5w
 - **Community space and meeting back-up on GitHub: https://github.com/uk-carpentries**
 
 
@@ -34,6 +36,11 @@ Zoom details for the calls: https://zoom.us/j/95360073649.
 
 ## Meetings
 
+- [28 February 2022](https://hackmd.io/Pj-FWH9TRJqEJ4ZpemZOqg)
+- [24 January 2022](https://hackmd.io/@local-uk/B1KC5LK_K)
+- [22 November 2021](/b6We6To1SX6cFoP5EUEOtQ)
+- [25 October 2021](https://hackmd.io/_-IGgOYIT4-Nx8LbmSxdSQ?both)
+- [27 September 2021](https://hackmd.io/5T9kLlr_R1CCFLzrASMU_w)
 - [23 August 2021](https://hackmd.io/hWeiTpL9QzeZUoNZJywvOw?both)
 - [26 July 2021](https://hackmd.io/ulYHAwUfQ7iMZqq3h8TDiQ?both)
 - [28 June 2021](https://hackmd.io/Yeo2FNMQSo-XHhF04gFGeQ?both)

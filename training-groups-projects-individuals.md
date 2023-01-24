@@ -1,14 +1,14 @@
-| URL | Contact name | Contact email | Location |
-| --- | --- | --- | --- |
-| Edinburgh Parallel Computing Centre (EPCC) |  | training@epcc.ed.ac.uk | Edinburgh |
-| Edinburgh Carpentries (EdCarp) | Giacomo Peru | g.peru@epcc.ed.ac.uk | Edinburgh |
-| Alan Turing Institute | Mishka Nemes | mnemes@turing.ac.uk | London |
-| Research Software London (RS London) | Jeremy Cohen | contact@rslondon.ac.uk | London |
-| RSG Southampton | John Robinson, Steve Crouch | https://rsgsoton.net/contact/ | Southampton |
-| UCL Advanced Reseach Computing Centre | David Perez Suarez | arc@ucl.ac.uk | London |
-| Imperial College London Research Computing Centre | Katerina Michalickova | k.michalickova@imperial.ac.uk | London |
-| Kings College London Research Software Engineering  | James Graham | james.a.graham@kcl.ac.uk | London |
-| Reseach IT, Uni of Manchester | Anje Le Blanc  | anja.leblanc@manchester.ac.uk | Manchester |
-| University of Manchester Library | Phil Reed, Nilani Ganeshwaran | Phil.Reed@manchester.ac.uk | Manchester |
-| RSE South |  |  uk-south@society-rse.org | South of England |
-| Coding Club | Gergana Daskalova | ourcodingclub@gmail.com | Edinburgh |
+| Friendly hyperlink                                                                                                                    | Contact name                  | Contact email                                                  | Location         |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ---------------- |
+| [Edinburgh Parallel Computing Centre (EPCC)](https://www.epcc.ed.ac.uk/education-and-training)                                        |                               | training@epcc.ed.ac.uk                                         | Edinburgh        |
+| [Edinburgh Carpentries (EdCarp)](https://edcarp.github.io)                                                                            | Giacomo Peru                  | g.peru@epcc.ed.ac.uk                                           | Edinburgh        |
+| [Alan Turing Institute](https://www.turing.ac.uk/opportunities/skills-turing/learning-turing)                                         | Mishka Nemes                  | mnemes@turing.ac.uk                                            | London           |
+| [Research Software London (RS London)](https://rslondon.ac.uk/)                                                                       | Jeremy Cohen                  | contact@rslondon.ac.uk                                         | London           |
+| [RSG Southampton](https://rsgsoton.net/training-courses/)                                                                             | John Robinson, Steve Crouch   | [https://rsgsoton.net/contact/](https://rsgsoton.net/contact/) | Southampton      |
+| [UCL Advanced Reseach Computing Centre](https://www.ucl.ac.uk/advanced-research-computing)                                            | David Perez Suarez            | arc@ucl.ac.uk                                                  | London           |
+| [Imperial College London Research Computing Centre](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/) | Katerina Michalickova         | k.michalickova@imperial.ac.uk                                  | London           |
+| [Kings College London Research Software Engineering](https://docs.er.kcl.ac.uk/research_software_engineering/)                        | James Graham                  | james.a.graham@kcl.ac.uk                                       | London           |
+| [Reseach IT, Uni of Manchester](https://www.itservices.manchester.ac.uk/research/)                                                    | Anje Le Blanc                 | anja.leblanc@manchester.ac.uk                                  | Manchester       |
+| [University of Manchester Library](https://www.library.manchester.ac.uk/training/)                                                    | Phil Reed, Nilani Ganeshwaran | Phil.Reed@manchester.ac.uk                                     | Manchester       |
+| [RSE South](https://uk-south.society-rse.org/)                                                                                        |                               | uk-south@society-rse.org                                       | South of England |
+| [Coding Club](https://ourcodingclub.github.io/)                                                                                       | Gergana Daskalova             | ourcodingclub@gmail.com                                        | Edinburgh        |

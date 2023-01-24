@@ -1,5 +1,6 @@
-| Edinburgh Parallel Computing Centre (EPCC) |  | training@epcc.ed.ac.uk | Edinburgh |
+| URL | Contact name | Contact email | Location |
 | --- | --- | --- | --- |
+| Edinburgh Parallel Computing Centre (EPCC) |  | training@epcc.ed.ac.uk | Edinburgh |
 | Edinburgh Carpentries (EdCarp) | Giacomo Peru | g.peru@epcc.ed.ac.uk | Edinburgh |
 | Alan Turing Institute | Mishka Nemes | mnemes@turing.ac.uk | London |
 | Research Software London (RS London) | Jeremy Cohen | contact@rslondon.ac.uk | London |
